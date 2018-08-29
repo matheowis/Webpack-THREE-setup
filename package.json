@@ -7,16 +7,8 @@
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/matheowis/Webpack-THREE-setup.git"
-  },
   "author": "Mateusz Wisniowski",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/matheowis/Webpack-THREE-setup/issues"
-  },
-  "homepage": "https://github.com/matheowis/Webpack-THREE-setup#readme",
   "devDependencies": {
     "raw-loader": "^0.5.1",
     "three": "^0.95.0",
